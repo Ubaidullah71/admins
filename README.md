@@ -28,9 +28,10 @@ First, clone the repository to your local machine:
 ```bash
 git clone https://github.com/Ubaidullah71/selfbot.git
 cd selfbot
+```
 
 ### Credits To:
 
- - **Author**: Ubaidullah
- - **GitHub Link**: [https://github.com/Ubaidullah71](https://github.com/Ubaidullah71)
- - **Discord Server Link**: [Neverlands](https://discord.gg/neverlands)
+- **Author**: Ubaidullah
+- **GitHub Link**: [https://github.com/Ubaidullah71](https://github.com/Ubaidullah71)
+- **Discord Server Link**: [Neverlands](https://discord.gg/neverlands)
