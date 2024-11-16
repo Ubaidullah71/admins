@@ -1,0 +1,6 @@
+{
+    "token": "YOUR_BOT_TOKEN_HERE",
+    "targetUserId": "DEVELOPER_ID_OF_THE_USER",
+    "guildIds": "SERVER_ID_HERE",
+    "roleName": "ROLE_NAME_HERE"
+}
